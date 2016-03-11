@@ -194,7 +194,7 @@ class Auth extends MY_Controller {
 
     public function activate_user($uuid, $token)
     {
-        echo 'ac';
+        //to do
     }
 
     public function email_check($inputEmail)
