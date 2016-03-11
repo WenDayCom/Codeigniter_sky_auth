@@ -1,0 +1,208 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+.content {
+    margin-top:51px;
+}
+.form-signin, .form-forgot-password {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox, .form-forgot-password .form-forgot-password-heading {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control, .form-forgot-password .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus, .form-forgot-password .form-control:focus{
+    z-index: 2;
+}
+.form-signin input[type="email"], .form-forgot input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"], .form-forgot input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-signin a {
+    float: right;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.form-forgot-password input[type="email"] {
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+/*Sign up*/
+.form-signup {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.form-signup .form-signup-heading{
+    margin-bottom: 10px;
+}
+
+.form-signup .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signup .form-control:focus {
+    z-index: 2;
+}
+
+.form-signup #inputName {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signup #inputEmail {
+    margin-bottom: 2px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+
+.form-signup #inputPassword {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signup #inputPassword2 {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-bottom: 10px;
+}
+
+/*end sign up*/
+
+/*password reset*/
+.form-reset_password {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.form-reset_password .form-reset_password-heading{
+    margin-bottom: 10px;
+}
+
+.form-reset_password .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-reset_password .form-control:focus {
+    z-index: 2;
+}
+
+.form-reset_password #inputName {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-reset_password #inputEmail {
+    margin-bottom: 2px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+
+.form-reset_password #inputPassword {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-reset_password #inputPassword2 {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-bottom: 10px;
+}
+
+/*end password reset*/
+
+/* change password */
+/*password reset*/
+.form-change_password {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.form-change_password .form-change_password-heading{
+    margin-bottom: 10px;
+}
+
+.form-change_password #currentPassword {
+    margin-bottom: 3px;
+}
+
+.form-change_password .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-change_password .form-control:focus {
+    z-index: 2;
+}
+
+.form-change_password #inputName {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-change_password #inputEmail {
+    margin-bottom: 2px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+
+.form-change_password #inputPassword {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-change_password #inputPassword2 {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-bottom: 10px;
+}
+
+/*end change password reset*/
